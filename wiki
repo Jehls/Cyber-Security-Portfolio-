@@ -1,0 +1,5 @@
+CISA.GOV Known Vulnerabilities catalog: 
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog 
+
+NIST national vulnerability database: 
+https://nvd.nist.gov/vuln
